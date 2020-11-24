@@ -46,6 +46,8 @@ Primary metric to optimise:	Accuracy
 
 Early termination policy: Bandit Policy
 
+Primary metric goal:	PrimaryMetricGoal.MAXIMIZE
+
 Max total runs:	15
 
 
